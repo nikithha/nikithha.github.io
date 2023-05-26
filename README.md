@@ -43,7 +43,7 @@ A meeting was scheduled to teach us about the basics of the electronics side of 
 * we were provided with links and relevant resourses to prototype our device using arduinos 
 * we were given valuable tips on how to go about doing that.
 * [this is the main resource](https://www.instructables.com/Audio-Player-Using-Arduino-With-Micro-SD-Card/).
-
+done
 
 # 22nd may 2023
 Got some of the relevant components.
